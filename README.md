@@ -1,7 +1,6 @@
 # :school:한림대학교 
 
 <h2>:boy:인적사항</h2>
-<img src=face.png width= 200 height= 200>
 <ul>
   <li>이름</li>
   <strong>서준원</strong>
